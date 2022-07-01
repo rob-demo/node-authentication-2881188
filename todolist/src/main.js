@@ -4,6 +4,8 @@ import VueCookies from 'vue-cookies';
 
 import App from './App.vue';
 
+testToken = "Octocat_token_9128476789";
+
 Vue.config.productionTip = false;
 // Install BootstrapVue
 Vue.use(BootstrapVue);
